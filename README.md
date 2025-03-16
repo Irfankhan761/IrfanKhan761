@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfankhan761" alt="irfankhan761" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working as **Full Stack Web Developer**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently work in **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://irfankhan761.github.io/MyPortfolio/](https://irfankhan761.github.io/MyPortfolio/)
 
