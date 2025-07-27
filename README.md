@@ -85,47 +85,6 @@ const irfan = {
 </div>
 
 ---
-
-## 💼 My Web Development Journey
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Current Focus
-- **Modern React Ecosystem** (Next.js, React 18+)
-- **Full-Stack JavaScript** applications
-- **Responsive UI/UX** with modern frameworks
-- **API Development** and database optimization
-
-### 🚀 Specializations
-- **Frontend**: Component-based architecture
-- **Backend**: RESTful APIs & GraphQL
-- **Database**: NoSQL & SQL optimization  
-- **Mobile**: Cross-platform React Native apps
-
-</td>
-<td width="50%">
-
-### 💬 Ask Me About
-- **Next.js & React** best practices
-- **Modern CSS** (Tailwind, CSS-in-JS)
-- **Node.js** backend architecture
-- **Database Design** & optimization
-- **UI/UX** implementation
-- **Performance** optimization
-
-### 🎨 UI Libraries I Love
-- Tailwind CSS, ShadCN/UI
-- Ant Design, Material-UI
-- Prime React, Chakra UI
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -157,9 +116,6 @@ const irfan = {
 
 <div align="center">
   
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
