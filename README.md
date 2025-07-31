@@ -20,7 +20,7 @@ const irfan = {
     currentFocus: "JavaScript Ecosystem",
     passion: ["Web Development", "Modern Frameworks", "UI/UX", "Education"],
     email: "irfandk1994@gmail.com",
-    portfolio: "https://irfankhan761.github.io/MyPortfolio/",
+    portfolio: "https://irfan761.vercel.app/",
     
     code: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
     technologies: {
@@ -106,7 +106,7 @@ const irfan = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://irfankhan761.github.io/MyPortfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://irfan761.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfandk1994@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfankhan761)
 
